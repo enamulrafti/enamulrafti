@@ -1,5 +1,5 @@
 ### About me
-  * [linkedIn](www.linkedin.com/in/enamulrafti)
+  * www.linkedin.com/in/enamulrafti
 
 ***
 ![Profile views](https://gpvc.arturio.dev/enamulrafti)  
